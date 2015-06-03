@@ -6,8 +6,6 @@ measure the latency and push it to
 [Carbon](https://github.com/graphite-project/carbon). The utility is useful to
 recreate rare network issues or simply measure latencies.
 
-Made by [Jens Rantil](https://jensrantil.github.io).
-
 Usage
 -----
 The application tries to have sane defaults and could be started without any
@@ -49,3 +47,8 @@ Contributions are always welcome. Bonus points for adding a unit test. If you
 aren't a code, or simply lazy ;), feel free to simply submit an
 [issue](https://github.com/JensRantil/http-pinger/issues/new) to propose ideas
 or share bugs.
+
+Who made this?
+--------------
+Made by [Jens Rantil](https://jensrantil.github.io). Feel free to send me some
+love on [Twitter](https://twitter.com/JensRantil) if you like this!
