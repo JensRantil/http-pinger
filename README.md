@@ -42,3 +42,10 @@ Execute
 
     $ go get
     $ go build
+
+Contibuting
+-----------
+Contributions are always welcome. Bonus points for adding a unit test. If you
+aren't a code, or simply lazy ;), feel free to simply submit an
+[issue](https://github.com/JensRantil/http-pinger/issues/new) to propose ideas
+or share bugs.
